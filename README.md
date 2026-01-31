@@ -1,3 +1,3 @@
-This is my first reposoitory.
+This is my first repository.
 <br>
 Author- Arpita
